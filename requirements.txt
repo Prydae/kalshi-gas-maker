@@ -1,0 +1,4 @@
+# Only the research modules' imports. The reproduction script needs no third-party package
+# beyond pyarrow, which dataset.py, reconstruct.py and maker.py import at module load.
+pyarrow>=15
+pytest>=8
