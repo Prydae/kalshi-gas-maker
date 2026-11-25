@@ -118,4 +118,4 @@ Runs the same P&L method on five evenings of public sample data in `data/sample/
 
 I designed the strategy, the experiments and the pass/fail rules, and reviewed every result against the raw data. The code was written with AI coding tools (Claude Code, Cursor).
 
-**Abhinay Kadam** · BAIT @ Rutgers Business School '28 · [LinkedIn](https://www.linkedin.com/in/abhinay-kadam-8b660b32a)
+**Abhinay Kadam** · BAIT @ Rutgers Business School '28 · [LinkedIn](https://www.linkedin.com/in/abhinay-kadam/)
