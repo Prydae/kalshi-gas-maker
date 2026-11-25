@@ -1,6 +1,6 @@
 # Kalshi Gas Market-Maker: from hypothesis to live trading
 
-An automated trading system for Kalshi's daily US gas-price markets. It went through a pre-registered backtest, a forward paper test, and a small live trial. 1 of 85 strategy ideas survived; this repo documents the one that did and why the others didn't.
+An automated trading system for Kalshi's daily US gas-price markets. It went through a pre-registered backtest, a forward paper test, and a small live trial. Out of 85 strategy ideas logged, this is the one gas edge that cleared every gate; this repo documents it and why the others didn't.
 
 **At a glance**
 - **+16.9¢ per contract** after fees in a 12-night forward paper test (3,270 fills, 72% profitable)
